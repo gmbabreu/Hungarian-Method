@@ -2,10 +2,10 @@ import numpy as np
 
 def main():
     """
-    Tests out the method for different matrices
+    Tests out the method for given matrices
     """
 
-    # Generate a random matrix
+    # Generate a matrix
     matrix = np.array([[2, 3, 0,],
                        [2, 4, 7,],
                        [4, 0, 10]])
